@@ -1,4 +1,4 @@
-![Capture d'écran 2025-01-30 100330](https://github.com/user-attachments/assets/2a323511-3567-4b51-bc1e-7807bf32f112)![Capture d'écran 2025-01-30 100308](https://github.com/user-attachments/assets/b8011a8b-b7f6-4044-932e-8b1a8eb797d1)# Tp2-Linux
+## Tp2-Linux
 Mise en place d'un cluster de 2 nodes
 
 ## Installaion reussi
