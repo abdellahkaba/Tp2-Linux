@@ -1,7 +1,7 @@
 ## Tp2-Linux
 Mise en place d'un cluster de 2 nodes
 
-## Installaion reussi
+## Installaion reussi d'après vagrant up
 ![Capture d'écran 2025-01-29 233546](https://github.com/user-attachments/assets/6e8c0f40-7376-42c5-a1d1-fd90bdcb820b)
 
 ## Ouvrerture de la session SSH vers la VM (web et db)
