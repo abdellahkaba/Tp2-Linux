@@ -1,6 +1,9 @@
 ## Tp2-Linux
 Mise en place d'un cluster de 2 nodes
 
+![Capture d'écran 2025-02-11 081456](https://github.com/user-attachments/assets/66799b13-c622-4578-bf33-1aa23780ad48)
+
+
 ## Installaion reussi d'après vagrant up
 ![Capture d'écran 2025-01-29 233546](https://github.com/user-attachments/assets/6e8c0f40-7376-42c5-a1d1-fd90bdcb820b)
 
